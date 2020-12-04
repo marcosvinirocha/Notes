@@ -1,28 +1,28 @@
-java
+**java**
 
-node
+**node**
 
-yarn
+**yarn**
 
-docker
+**docker**
 
 imsominia
 
-visual code
+**visual code**
 
-jetbrains tools + android studio+ intelijei
+**jetbrains tools + android studio+ intelijei**
 
-beekpperstudio
+**beekpperstudio**
 
-dbeaver
+**dbeaver**
 
-docker
+**docker**
 
 dockerstation
 
 docker compose
 
-mongocompass
+**mongocompass**
 
 mongodb
 
@@ -30,14 +30,14 @@ postgresssql
 
 mariadb
 
-typora
+**Typora**
 
 maven
 
-gnome boxes
+**gnome boxes**
 
-chrome
+**chrome**
 
-firewall
+**firewall**
 
-fira code
+**fira code**
