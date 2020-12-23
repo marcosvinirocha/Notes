@@ -16,3 +16,16 @@ to serve - servir
 
 ```
 
+```
+likewise - igualmente,tambem.
+be right there -> ja to indo
+be right back -> ja volto
+how come? -> porque? como assim?
+all right -> tudo bem, tudo certo
+right here -> bem aqui
+all day -> dia todo
+guess what -> adivinha 
+
+
+```
+
