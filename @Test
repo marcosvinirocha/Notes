@@ -1,0 +1,10 @@
+@Test
+void testeCadastrarLançamento() {
+    Lancamento lançamento = new Lancamento();
+    String receber = lançamento.getdescricao(new Lancamento("agua",
+    LocalDate.now(),100.0, true,
+    FormaDePagamento.DINHEIRO));
+
+    assertEquals("agua", receber);
+
+}
