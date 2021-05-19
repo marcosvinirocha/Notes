@@ -139,11 +139,11 @@ symbol = "AWS Region: "
 ap-southeast-2 = "au"
 us-east-1 = "va"
 
-[nodejs]
-format = "via [◆ $version](bold green) "
 
 [java]
 format = "via [☕ $version](bold red) "
 
+[nodejs]
+format = "via [◆ $version](bold green) "
 
 
